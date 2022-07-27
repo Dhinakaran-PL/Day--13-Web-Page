@@ -1,0 +1,31 @@
+body{
+    background-color: lightgreen;
+}
+
+.fa{
+    color: rgb(0, 14, 211);
+}
+
+.box-part{
+    background-color: white;
+    padding: 40px 6px;
+    margin: 34px 0px;
+}
+
+.span{
+    font-size: 12px;
+}
+
+.text{
+    margin: 10px 0px;
+}
+
+a{
+ border-bottom: 1px solid blue;
+
+}
+
+.box{
+    padding: 60px 0px;
+   
+}
